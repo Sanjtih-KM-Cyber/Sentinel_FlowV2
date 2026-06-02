@@ -1,0 +1,6 @@
+{
+  "name": "EASM Frontend Platform",
+  "description": "Production frontend for the enterprise DAST/EASM platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
